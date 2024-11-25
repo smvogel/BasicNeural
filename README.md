@@ -4,7 +4,6 @@ Basic XOR problem solving using a Neural Network
 
 import numpy as np
 import matplotlib.pyplot as plt
-
 	•	numpy: Used for numerical operations such as matrix multiplication and random number generation.
 	•	matplotlib.pyplot: Used for plotting the loss over time.
 
